@@ -1,0 +1,5 @@
+//CDN
+https://cdn.jsdelivr.net/npm/openpgp@5.11.1/dist/openpgp.min.js
+
+//Url
+https://www.jsdelivr.com/package/npm/openpgp
